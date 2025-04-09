@@ -1,0 +1,37 @@
+<html>
+<!--Questo serve per dichiarare il documento, in quessto caso html5 --><!DOCTYPE html>
+<head>
+<link rel="stylesheet" type="text/css"  href="stilepesto.css">
+<title>risotto </title><!--Definisce il titolo della pagina.-->
+<style>
+body {
+background:Beige; }
+
+</style>
+
+
+</head>
+<body>
+
+<h1><u> Ricetta del risotto </u></h1>
+
+<img src="risotto" alt="risotto">
+<h1>Istruzioni</h1>
+
+<div class="ingredienti"> <!-- questo è il contenitore principale della pagina. -->
+<h2> <u> Ingredienti </u></h2>
+
+<ol><strong><!-- questo serve per evidenziare il testo--> 200g di pasta </strong></ol>
+<ol></ol>320g di riso Carnaroli <li> 320g di riso Carnaroli" </li>
+ <li>  1 bustina di zaffferano </li>
+ <li> 1 litro di brodo vegetale </li>
+ <li> 1/2 cipolle </li>
+ <li> 40g di burro </li>
+ <li> 50g di parmigiano </li>
+ <li> 1 bicchiere di vino </li>
+ <li> sale q.b </li>
+</div>
+
+
+<div id="preparazione">
+<h3><em> preparazione </em> </h3>
